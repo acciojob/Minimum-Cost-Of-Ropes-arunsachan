@@ -19,7 +19,7 @@ function minCostToFormRope(event) {
 			return a-b
 		})
     }
-	document.getElementById("result").innerHtml = cost;
+	document.getElementById("result").innerHTML = cost;
 }
 
 
